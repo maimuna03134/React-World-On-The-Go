@@ -1,0 +1,17 @@
+.country{
+    border: 2px solid salmon;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.country-visited{
+    background-color: rgb(4, 49, 51);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+.btn-visited{
+    background-color: blue;
+    color: white;
+    border: 2px dotted blue;
+}
